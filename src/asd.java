@@ -1,4 +1,4 @@
-
+﻿
 import java.util.Random;
 import java.util.Scanner;
 
@@ -118,5 +118,6 @@ public class Main2 {
 
     /*  ABC hepsi bitince kontrolde --> 1/ 6 ihtimal vardı  1 doğru 5 yanlış  yuzdelik dogru oran ise --> istenilen /toplam diye
         Bunda ise her seferinde teker teker soracaz ve istenilen / tur + hata olacak 
+SZDÇ::a:ÇSF:AÇsf:ÇAs:FÇaSFÇ
      */
 }
